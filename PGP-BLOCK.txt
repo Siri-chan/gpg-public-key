@@ -1,0 +1,18 @@
+Notice-
+It's worth checking the commit history of this repo.
+This way, the file is practically tamper-proof.
+This original commit is the only one that I can declare 100% reliable.
+
+-----BEGIN PGP PUBLIC KEY BLOCK-----
+
+mDMEYbbpqRYJKwYBBAHaRw8BAQdAHn6vQMmGoZDtvqhWD4KG5hv63Lhv4VwLqUta
+LSKNgXu0IUtpcmEgSyA8c2lyaTE5OTlraXJhQHlhaG9vLmNvLmpwPoiaBBMWCgBC
+FiEEX5pIoKSY+qkTtLPfHYm9nk7dcdYFAmG26akCGwMFCQPCZwAFCwkIBwIDIgIB
+BhUKCQgLAgQWAgMBAh4HAheAAAoJEB2JvZ5O3XHW+R4BAKlUg/jJwC9AK9TMrW6i
+wS38WkD7aXZ180kTTCPFtM+nAQCWds3gl3hPAFcPbI7XAG03vaoLt6qxZ65HGQDE
+NGVsALg4BGG26akSCisGAQQBl1UBBQEBB0DbYwckTdq2X1hUu9NTanWzKTv6Z1H+
+EIKp978r/yjVSQMBCAeIfgQYFgoAJhYhBF+aSKCkmPqpE7Sz3x2JvZ5O3XHWBQJh
+tumpAhsMBQkDwmcAAAoJEB2JvZ5O3XHWeiwA/3U5zAKfz6yAfvRgJg/1Jpy0JpwC
+HXwKAQ1MZZ2WZR4XAP4hGHHiFK0aww8Tz0jnZfCdFGibz/0YJzLEn6qIagPXAw==
+=0l5+
+-----END PGP PUBLIC KEY BLOCK-----
